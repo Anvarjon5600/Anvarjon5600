@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Anvar Ganiyev</h1>
-<h3 align="center">A passionate developer from Uzbekistan</h3>
+<h1 align="left">Hi 👋, I'm Anvar Ganiyev</h1>
+<h3 align="left">A passionate developer from Uzbekistan</h3>
 
 <img align="center" alt="Coding" widht="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
