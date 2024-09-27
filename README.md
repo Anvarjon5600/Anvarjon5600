@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anvar Ganiyev</h1>
 <h3 align="center">A passionate developer from Uzbekistan</h3>
 
-<img align="left" alt="Coding" widht="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" widht="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Kubernetes(k8s)**
 
